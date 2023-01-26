@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MinesweeperBeta</string>
+
+    <string name="smiley">😊</string>
+    <string name="coolSmiley">😎</string>
+    <string name="bombedSmiley">💀</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">---</string>
+
+    <string name="game_won_message">You Win!</string>
+    <string name="game_lost_message">You got blown up!</string>
+
+    <string name="clearingModeON">Clearing Mode</string>
+    <string name="clearingModeOFF">Flag Mode</string>
+</resources>
